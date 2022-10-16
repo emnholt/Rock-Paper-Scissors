@@ -16,4 +16,4 @@
   ```
 
 - Emily Holt
-- [LinkedIn]([https://www.example.com](https://www.linkedin.com/in/emily-holt-bb70b8161/))
+- [LinkedIn](https://www.linkedin.com/in/emily-holt-bb70b8161/)
